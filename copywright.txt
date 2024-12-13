@@ -1,0 +1,17 @@
+--------------------------------------------------------------------
+* Copyright (C) 1883 Thomas Edison - All Rights Reserved
+ * You may use, distribute and modify this code under the
+ * terms of the XYZ license, which unfortunately won't be
+ * written for another century.
+ * Yooo this is completely unofficial
+ * You should have received a copy of the XYZ license with
+ * this file. If not, please write to: , or visit :
+--------------------------------------------------------------------
+
+The above terms are applicable to all source files in this project except for some lmao. The right to 
+modify, use, and republish these files is reserved for the devs.
+
+Developers:
+ARJUN C - Main Programmer
+CESAR P - Algorithms/Logic and Sprite Art
+
