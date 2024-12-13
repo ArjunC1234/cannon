@@ -14,7 +14,7 @@ function HANDLER () {
         for (var i = 0; i < paths.length; i++) {
           let asset = new Image()
           asset.src = paths[i]
-          construct.push(asset)
+          construct.push(asset);
         }
       } else {
         let asset = new Image()
